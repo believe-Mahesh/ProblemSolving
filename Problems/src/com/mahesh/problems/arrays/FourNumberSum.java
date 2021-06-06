@@ -44,5 +44,4 @@ public class FourNumberSum {
 		}
 		return list.size();
 	}
-
 }
